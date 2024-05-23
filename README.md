@@ -11,5 +11,5 @@ oc new-app openshift/python:3.9-ubi8~https://github.com/tvieira/myfastapi.git --
 ```
 
 ```sh
-oc expose svc/hello-world
+oc expose svc/my-fastapi
 ```

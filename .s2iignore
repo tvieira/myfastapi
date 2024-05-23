@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Allow specific files
+!.s2iignore
+!.s2i/
+!hello_world/
+!LICENSE
+!Pipfile
+!Pipfile.lock
+!app.py

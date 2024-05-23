@@ -7,7 +7,7 @@ oc new-project myfastapi
 ```
 
 ```sh
-oc new-app openshift/python:3.9-ubi8~https://github.com/strangiato/pipenv-s2i-example.git --name my-fastapi
+oc new-app openshift/python:3.9-ubi8~https://github.com/tvieira/myfastapi.git --name my-fastapi
 ```
 
 ```sh
